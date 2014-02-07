@@ -1,12 +1,13 @@
 # Project Title
-Insert the name of your project
+Dev010000010111001001110100 Wall
 
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+- Jason Goldsnith and Michael Lawrence
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+The DevArt wall is a concept that looks to combine and promote code and modern technology, while embracing technology's past and present. Art means different things to different people. In an effort to promote code and people's own view of art in an interactive environment, we have come up with the idea of DevArt Wall, which allows people to contribute their own artistic values to an ever changing art peice.  
+
+DevArt Wall features a wall of technology, covered in past and present devices, all linked together using code. Our app allows users to submit their own opinion of art, which has to be submited through the app after the user learns to write their message in their own string of code or by submitting their own artpiece or image. Visitors messages and images will then be shown on the DevArt wall across the various featured devices.
 
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
